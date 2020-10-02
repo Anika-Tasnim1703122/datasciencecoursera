@@ -1,8 +1,7 @@
 ---
-title: "HelloWorld"
-author: "Anika Tasnim"
-date: "10/2/2020"
-output: word_document
+output:
+  word_document: default
+  html_document: default
 ---
 ## This is a markdown
 # Hello World!
